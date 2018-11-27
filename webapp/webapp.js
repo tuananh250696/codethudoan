@@ -179,6 +179,6 @@ angular.module('myApp', [
 		$scope.updateServo(0) //Servo quay về góc 0 độ!. Dùng cách 2 
 	})
 		
-});
+
 		
 });
